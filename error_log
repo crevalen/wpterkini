@@ -1,0 +1,28 @@
+[28-Jan-2023 21:35:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php on line 1
+[04-Feb-2023 21:12:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php on line 1
+[04-Feb-2023 21:12:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php on line 1
+[04-Feb-2023 21:14:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php on line 1
+[04-Feb-2023 21:14:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php on line 1
+[04-Feb-2023 21:14:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php on line 1
+[04-Feb-2023 21:14:27 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/thec4639/public_html/demo/wpterkini/wp-content/themes/wpterkini/index.php on line 1
